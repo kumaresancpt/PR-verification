@@ -1,0 +1,31 @@
+:root {
+  --color-primary: #5B21B6;
+  --color-secondary: #353638;
+  --color-background: #FFFFFF;
+  --color-surface-toggle: #F3F3F3;
+  --color-text-primary: #292D32;
+  --color-text-dark: #3B3B3B;
+  --color-text-muted: #474A5F;
+  --color-text-placeholder: #8390A2;
+  --color-text-inactive: #3C3C3C;
+  --color-border: #B9B9B9;
+  --color-border-checkbox: #252525;
+  --font-brand-heading: 900 31.127px/normal 'Satoshi', sans-serif;
+  --font-brand-sub: 500 12.105px/normal 'Satoshi', sans-serif;
+  --font-heading-login: 600 33px/41.6px 'Inter', sans-serif;
+  --font-subtitle: 400 20px/normal 'Inter', sans-serif;
+  --font-label: 500 14px/16px 'Inter', sans-serif;
+  --font-input: 400 14px/24px 'Inter', sans-serif;
+  --font-button: 700 14px/24px 'Inter', sans-serif;
+  --font-link: 400 14px/normal 'Inter', sans-serif;
+  --font-role-active: 600 16px/normal 'Inter', sans-serif;
+  --font-role-inactive: 400 16px/normal 'Inter', sans-serif;
+  --font-signup: 400 16px/normal 'Inter', sans-serif;
+  --font-copyright: 400 14px/normal 'Inter', sans-serif;
+  --radius-panel: 56px;
+  --radius-role-toggle: 48px;
+  --radius-role-tab: 25px;
+  --radius-input: 8px;
+  --radius-button: 8px;
+  --radius-inner-input: 4px;
+}
